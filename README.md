@@ -10,7 +10,7 @@ The design combines editorial typography, clean minimalism, and bento-style fina
 
 ## Live Demo
 
-Live: [Add your Vercel URL here]
+Live: https://fermor-homepage-ag35q1e0f.vercel.app/
 
 Repository: https://github.com/Satyanarayana001/fermor-homepage
 
@@ -197,10 +197,7 @@ The implementation focuses on:
 
 ## Author
 
-Kotari Veera Venkata Satyanarayana
+**Kotari Veera Venkata Satyanarayana**  
+B.Tech Computer Science Engineering · BVCE · JNTUK
 
-B.Tech Computer Science Engineering
-BVCE · JNTUK
-
-GitHub: https://github.com/Satyanarayana001
-LinkedIn: https://www.linkedin.com/in/kotari-veera-venkata-satyanarayana-53b340292
+[GitHub](https://github.com/Satyanarayana001) · [LinkedIn](https://www.linkedin.com/in/kotari-veera-venkata-satyanarayana-53b340292)
